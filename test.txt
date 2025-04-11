@@ -1,0 +1,3 @@
+0x12345678 42
+hello world
+0xabcdef
